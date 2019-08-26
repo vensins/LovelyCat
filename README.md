@@ -3,7 +3,7 @@ Typecho 插件
 
 一只可爱的猫，它会跟着你的鼠标移动：
 
-！[](cat.gif)。
+![](LovelyCat/cat.gif)。
 
 #如何在博客中使用？
 在typecho中启用此插件即可
